@@ -1,0 +1,7 @@
+Key Promoter X
+cn.yiiguxing.plugin.translate
+com.alibaba.p3c.smartfox
+com.dubreuia
+com.intellij.zh
+izhangzhihao.rainbow.brackets
+zielu.gittoolbox

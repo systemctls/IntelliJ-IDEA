@@ -1,8 +1,0 @@
-<keymap version="1" name="Windows copy" parent="$default">
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl alt 1" />
-  </action>
-  <action id="RunTargetAction">
-    <keyboard-shortcut first-keystroke="shift ctrl 1" />
-  </action>
-</keymap>
