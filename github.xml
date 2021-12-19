@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="systemctls" id="439f8af5-bc4b-433a-b83f-0b5c30fd3363">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
