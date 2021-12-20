@@ -1,5 +1,35 @@
 <application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1087" />
+    <option name="newTranslationDialogY" value="539" />
+    <histories>
+      <item value="results" />
+      <item value="args" />
+      <item value="names[1] = &quot;cat&quot;;" />
+      <item value="static" />
+      <item value="main" />
+      <item value="length" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639910075355" />
+    <option name="lastTrimTime" value="1639818508204" />
+  </component>
+  <component name="Settings">
+    <option name="autoPlayTTS" value="true" />
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20191022000343428" />
+      </app-key>
+    </option>
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
