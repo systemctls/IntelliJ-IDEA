@@ -1,0 +1,7 @@
+<templateSet group="HTML/XML">
+  <template name="demoreact" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;&#9;&lt;meta charset=&quot;UTF-8&quot;&gt;&#10;&#9;&lt;title&gt;hello_react&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#9;&lt;!-- 准备好一个“容器” --&gt;&#10;&#9;&lt;div id=&quot;app&quot;&gt;&lt;/div&gt;&#10;&#10;&#9;&lt;!-- 引入react核心库 --&gt;&#10;&#9;&lt;script type=&quot;text/javascript&quot; src=&quot;../js/react.development.js&quot;&gt;&lt;/script&gt;&#10;&#9;&lt;!-- 引入react-dom，用于支持react操作DOM --&gt;&#10;&#9;&lt;script type=&quot;text/javascript&quot; src=&quot;../js/react-dom.development.js&quot;&gt;&lt;/script&gt;&#10;&#9;&lt;!-- 引入babel，用于将jsx转为js --&gt;&#10;&#9;&lt;script type=&quot;text/javascript&quot; src=&quot;../js/babel.min.js&quot;&gt;&lt;/script&gt;&#10;&#10;&#9;&lt;script type=&quot;text/babel&quot; &gt; /* 此处一定要写babel */&#10;&#9;&#9;//1.创建虚拟DOM&#10;&#9;&#9;const VDOM = &lt;h1&gt;Hello,React&lt;/h1&gt; /* 此处一定不要写引号，因为不是字符串 */&#10;&#9;&#9;//2.渲染虚拟DOM到页面&#10;&#9;&#9;ReactDOM.render(VDOM,document.getElementById('app'))&#10;&#9;&lt;/script&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="react study demo" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
